@@ -81,4 +81,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/mrtosumemon"> <img src="https://img.shields.io/badge/mrtosumemon-black?style=for-the-badge&logo=github" alt="Prince" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ɢᴏᴅғᴀᴛʜᴇʀ](https://github.com/mrtosumemon) ғᴏʀ [sᴀɴᴀ x ᴍᴜsɪᴄ](https://github.com/mrtosumemon/Sana2Music)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ɢᴏᴅғᴀᴛʜᴇʀ](https://github.com/mrtosumemon/SANA-MUSIC2.0) ғᴏʀ [sᴀɴᴀ x ᴍᴜsɪᴄ](https://github.com/mrtosumemon/Sana2Music)_ </b>
